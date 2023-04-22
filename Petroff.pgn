@@ -1,0 +1,16 @@
+﻿[Event "?"]
+[Site "?"]
+[Date "2023.04.22"]
+[Round "?"]
+[White "1.e4 e5 2.Cf3 Cf6"]
+[Black "?"]
+[Result "*"]
+[ECO "C42"]
+[Annotator "Zam"]
+[PlyCount "5"]
+[EventDate "2023.??.??"]
+[SourceVersionDate "2023.04.22"]
+
+{[%evp 0,4,19,38,25,16,13]} 1. e4 e5 2. Nf3 Nf6 3. Nxe5 (3. d4) (3. Nc3) (3.
+Bc4) (3. d3) (3. Qe2) *
+
