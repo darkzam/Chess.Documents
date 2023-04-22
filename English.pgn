@@ -1,0 +1,26 @@
+﻿[Event "?"]
+[Site "?"]
+[Date "2017.02.20"]
+[Round "?"]
+[White "1.c4 ..."]
+[Black "?"]
+[Result "*"]
+[ECO "A20"]
+[PlyCount "2"]
+[SourceVersionDate "2017.02.20"]
+
+1. c4 e5 (1... c5) (1... Nf6) (1... f5) (1... g6) *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.02.20"]
+[Round "?"]
+[White "..."]
+[Black " 1. ... e5 2.g3"]
+[Result "*"]
+[ECO "A20"]
+[PlyCount "3"]
+[SourceVersionDate "2017.02.20"]
+
+1. c4 e5 2. g3 *
+
