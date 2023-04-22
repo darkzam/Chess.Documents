@@ -1,0 +1,559 @@
+﻿[Event "?"]
+[Site "?"]
+[Date "2016.10.23"]
+[Round "?"]
+[White "INDICE"]
+[Black "?"]
+[Result "*"]
+[ECO "A00"]
+[PlyCount "20"]
+[SourceVersionDate "2016.10.21"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+Nbd7 9. Qe2 Bg6 10. e4 O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.09.23"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "A00"]
+[PlyCount "0"]
+[SourceVersionDate "2016.10.21"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "2016.10.23"]
+[Round "?"]
+[White "3.Cf3 Cf6 4.e3"]
+[Black "?"]
+[Result "*"]
+[ECO "D11"]
+[Annotator "Zamir"]
+[PlyCount "8"]
+[SourceVersionDate "2016.10.21"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 (4... Bg4) (4... e6) *
+
+[Event "?"]
+[Site "?"]
+[Date "2016.10.22"]
+[Round "?"]
+[White "3.Cf3 Cf6 4.e3"]
+[Black "4. ... Af5"]
+[Result "*"]
+[ECO "D12"]
+[Annotator "Zamir"]
+[PlyCount "32"]
+[SourceVersionDate "2016.10.21"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 {C)} 5. Bd3 ({B)} 5. Be2 e6 6. O-O Nbd7
+7. b3 Bd6 8. Bb2 O-O 9. Nbd2 (9. Nh4 Ne4 10. Nxf5 exf5 $36 {[%csl Rf2,Rh2]
+[%cal Gd8h4,Gd6h2]}) 9... Ne4 (9... h6 $5) 10. Nxe4 dxe4 $5 (10... Bxe4 11. Nd2
+Bg6 12. Bf3 Qe7 13. g3 Nf6 $11) 11. Ne5 Qg5 $5 $146 12. Nxd7 Rfd8 $36) ({A)} 5.
+Qb3 Qb6 6. cxd5 Qxb3 7. axb3 Nxd5 {[%csl Gb4][%cal Gd5b4]} 8. Bd2 (8. Nc3 Nb4
+$1 9. Kd2 Nd7 (9... h6 $5 {[%csl Rf5][%cal Gf5h7,Rf3h4]}) 10. Nh4 Bg6 11. Nxg6
+hxg6 12. Bc4 a6 $15) 8... e6 9. Na3 Be7 10. Be2 Nd7 11. O-O O-O 12. Rfc1 Rfd8
+$146 13. Nc4 c5 14. Na5 Rab8 $11) 5... Bxd3 6. Qxd3 e6 7. O-O Nbd7 8. Nbd2 (8.
+Nc3 Bb4 {-> 3.Cc3 Cf6 4.e3}) 8... Be7 9. Rd1 (9. e4 dxc4 $1 10. Qxc4 {[%csl
+Rc4][%cal Rc6c5,Ra8c8,Rc8c4]} (10. Nxc4 Nc5 {[%csl Gd3,Ge4][%cal Gc5e4,Gd8d3]})
+10... O-O 11. b3 (11. Re1 c5 12. e5 Nd5 13. Ne4 cxd4 14. Qxd4 Nb4 $1 $15) 11...
+c5 $1 $146 {=} (11... Rc8 12. Bb2 c5 13. Qb5 (13. Qe2 $142) 13... cxd4 14. Bxd4
+Bc5 (14... Qc7 $5 15. Bb2 b6) 15. Bxf6 Nxf6 16. e5 Qd7 $1 17. Qxd7 Nxd7 $11)) (
+9. b3 O-O 10. Bb2 a5 $1 11. a3 (11. Bc3 Qb6 12. Rfd1 a4 $146 13. c5 (13. b4 Qa6
+$11 {[%csl Gc4][%cal Ga6d3]}) 13... Qa6 14. Qxa6 Rxa6 15. b4 Ne8 $11 {[%csl
+Gb5][%cal Ge8c7,Gc7b5]}) 11... Qb6 12. Rfb1 Rfd8 13. c5 (13. Bc3 c5 $1) 13...
+Qa6 14. Qc2 (14. Qf1 Ne4 15. b4 b6 16. Qxa6 Rxa6 17. Nxe4 dxe4 18. Nd2 bxc5 19.
+bxc5 Nxc5 $15) 14... b6 15. b4 Rdb8 $11) 9... O-O 10. e4 a5 $5 11. a4 (11. e5
+dxc4 {[%csl Gd5][%cal Gf6d5]}) (11. cxd5 exd5 12. e5 Ne8 13. Nf1 Nc7 14. Ng3 (
+14. Ne3 f6) 14... g6 15. Bh6 Re8 $13) (11. h4 a4 (11... dxe4 12. Nxe4 Nxe4 13.
+Qxe4 a4 14. Bg5 h6 $146 15. Bxe7 Qxe7 $11) 12. cxd5 cxd5 13. e5 Ng4 $1) 11...
+dxe4 $146 12. Nxe4 c5 $1 13. Nxf6+ (13. Nc3 cxd4 14. Nxd4 Qb6 $13 {[%csl Gb4,
+Gc5] el negro esta bien}) 13... Bxf6 14. d5 exd5 15. cxd5 (15. Qxd5 $2 Nb6 $1)
+15... Ne5 16. Nxe5 Bxe5 $11 {[%csl Rb5,Rc4,Gh2][%cal Rd3b5,Gd8h4,Gh4b4]} *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "5.cd5 cd5"]
+[Black "?"]
+[Result "*"]
+[Annotator "Zamir"]
+[PlyCount "11"]
+[SourceVersionDate "2016.10.21"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. cxd5 cxd5 6. Qb3 (6. Ne5) (6. Bb5+) (
+6. Nc3) *
+
+[Event "?"]
+[Site "?"]
+[Date "2016.10.24"]
+[Round "?"]
+[White "6.Db3 Dc7"]
+[Black "?"]
+[Result "*"]
+[ECO "D12"]
+[Annotator "Zamir"]
+[PlyCount "28"]
+[SourceVersionDate "2016.10.21"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. cxd5 cxd5 6. Qb3 (6. Ne5 e6 7. Nc3
+Nfd7 $5 {Con una posicion comfortable} (7... a6 {transpone a:})) (6. Bb5+ Nc6
+7. Ne5 Rc8 8. Nc3 {transpone a:}) (6. Nc3 a6 {transpone a:} (6... e6 $5)) 6...
+Qc7 {[%csl Rc1]} 7. Bd2 {la opcion mas flexible} (7. Nc3 e6 8. Bb5+ (8. Nh4 Bg6
+$1 (8... Be4 $6 9. f3 Bg6 {En este caso la jugada f3 no debilita tanto la
+posicion de las blancas y les da algunos puntos positivos.}) 9. Nxg6 hxg6 10.
+Bd2 Nc6 11. Rc1 Be7 12. h3 (12. Bd3 g5 $5 {[%csl Gd2]} 13. g3 Rc8 14. f3 Kf8
+15. O-O g6 $13 {[%cal Gf8g7,Gh8h2,Gc8h8,Gg5g4]}) 12... g5 $5 {interesante idea
+de expansion en el flanco de rey se amanaza g4} (12... O-O) 13. g3 {evitando g4
+} Rc8 14. Bg2 O-O {[%csl Gg2] tiene sentido despues de que el blanco
+fianchetto su alfil} 15. Qd1 Rfd8 16. O-O Ne8 $11 {[%cal Ge8d6] con buen juego
+del negro}) (8. Ne5 {parece activa pero no es peligrosa} Nc6 9. Bd2 (9. Bb5 {
+transpone a:}) 9... Be7 10. Rc1 (10. Nb5 Qb6 11. a4 Ne4 $1 12. a5 $5 Nxd2 13.
+Qa4 Qxa5 14. Qxa5 Nxa5 15. Nc7+ Kf8 16. Rxa5 (16. Nxa8 $2 Ndb3 $17) 16... Ne4
+17. Rb5 Rc8 18. Rxb7 Bd6 19. g4 Rxc7 20. Rxc7 Bxc7 21. gxf5 Bxe5 22. dxe5 exf5
+$15) (10. Bd3 Bxd3 11. Nxd3 O-O 12. Rc1 Rac8 13. O-O Qb8 $11) 10... O-O 11. Be2
+(11. Bb5 Nxe5 $5 12. Nxd5 Qxc1+ 13. Bxc1 Nxd5 14. e4 $1 (14. dxe5 $2 Rac8 {
+[%cal Gf5c2]} 15. Kd1 Rfd8 16. Bd2 Bb4 $17) 14... Bxe4 15. dxe5 Bxg2 16. Rg1
+Be4 17. Bd3 Rac8 18. Bd2 Bxd3 19. Qxd3 Rfd8 $44) 11... Rac8 12. O-O Qb8 13. f4
+(13. Nxc6 Rxc6 14. Na4 Rfc8 15. Rxc6 Rxc6 $11) 13... Nxe5 14. fxe5 Ne4 15. Nxe4
+Bxe4 16. Bb4 Bxb4 17. Qxb4 Rc7 $1 {[%cal Gc8c1] amenazando ganar la columna el
+blanco debe ser cuidadoso}) (8. Bd2 {transpone a 7.Ad2}) 8... Nc6 9. Ne5 (9.
+Bd2 $6 {orden de movimiento dudoso debido a} a6 $1 {con la idea de desarrollar
+el alfil negro a una casilla mas activa d6} 10. Bxc6+ bxc6 $1 {con mejor
+partida del negro por ejemplo:} 11. O-O Bd6 12. h3 O-O 13. Rfc1 $2 Rfb8 14. Qa4
+Rxb2 $17) 9... Bd6 10. f4 (10. Qa4 $6 O-O 11. Nxc6 bxc6 12. Bxc6 Rab8 13. Bb5
+Ne4 $1 $146 14. Nxe4 Bxe4 15. O-O Bxh2+ 16. Kh1 f5 $1 {[%cal Gf8f6,Gf6h6] con
+decisivo ataque}) 10... O-O 11. Bd2 (11. O-O $6 Nb4 $1 12. Qd1 Nc2 13. Rb1 (13.
+g4 $2 Nxg4 $1 $146 14. Nxg4 Nxa1 15. Bd3 Bxd3 16. Qxd3 Qc4 17. Qd1 b5 $19)
+13... Na3 $1 14. Ra1 Nxb5 15. Nxb5 Qb6 16. Nxd6 Qxd6 {con ventaja posicional
+del negro}) 11... a6 12. Be2 (12. Bxc6 bxc6 13. Na4 {de otra forma el negro
+jugaria c5} Rab8 14. Qd1 Ne4 15. Rc1 Bxe5 $1 16. fxe5 f6 $17 {el blanco no
+puede jugar} 17. exf6 $2 Rxf6 18. O-O Rh6 $19 {con ataque demoledor}) 12... Na5
+(12... b5 $5) 13. Qd1 Nc4 {simple y fuerte} 14. Nxc4 dxc4 15. g4 Bg6 16. h4 Bb4
+$1 17. h5 Bxc3 18. Bxc3 Be4 19. O-O Nd5 $15 {con superioridad posicional}) 7...
+e6 8. Bb5+ (8. Na3 Nc6 9. Rc1 a6 10. Ne5 (10. Qa4 Be7 11. Bb5 O-O 12. Bxc6 bxc6
+13. Ne5 c5 14. O-O Rfc8 $15 {[%csl Ra3,Rd2,Ge7,Gf5] pareja de alfiles}) 10...
+Be7 $1 $146 11. f3 (11. Bd3 Bxd3 12. Nxc6 bxc6 13. Qxd3 O-O 14. O-O Rab8 15.
+Rc2 Ne4 $11 {[%csl Ra3]}) (11. Nxc6 bxc6 12. Qa4 O-O $1 13. Ba5 Qb7 14. b3 Rfc8
+{[%cal Gc6c5] con excelente juego de las negras}) 11... Nd7 12. Nxc6 bxc6 13.
+Qa4 O-O $1 14. Qxc6 (14. Rxc6 Qb7 $1) 14... Qa7 $1 $44 {el negro tiene mucha
+compensacion , por ejemplo:} 15. Qc7 Rfb8 16. Qxa7 Rxa7 17. Bc3 Nb6 $44 {
+[%csl Ra3,Ga4,Rb2,Rc3][%cal Gb6a4]}) (8. Nc3 Nc6 9. Rc1 (9. Bb5 {transpone a:})
+(9. Nh4 Bg6 10. Nxg6 hxg6 {transpone a:}) 9... Be7 10. Bb5 (10. Nh4 Bg6 11.
+Nxg6 hxg6 {transpone}) (10. Ne5 {transpone}) 10... O-O 11. O-O a6 $1 12. Bxc6
+bxc6 {[%csl Gf5][%cal Gf5b1] con el fuerte alfil de f5 el negro no tiene
+porque temer el daño en su estructura} 13. Na4 Rab8 14. Qd1 Nd7 $146 15. Bc3
+Rfc8 16. b3 Qb7 {[%cal Gc6c5]} 17. Nc5 Nxc5 18. dxc5 Be4 $15 {con pareja de
+alfiles y mayoria central}) 8... Nc6 (8... Nbd7 $5) 9. Bb4 (9. O-O Bd6 10. Rc1
+O-O 11. Qa4 Qb8 $5 $146 (11... Rfc8 12. Bxc6 bxc6 13. Bb4 Bxb4 14. Qxb4 Nd7 $11
+{es suficiente para igualar}) 12. Bxc6 bxc6 13. Qxc6 Ne4 $44 (13... Ng4 $5) 14.
+b3 $6 Nxd2 $1 15. Nbxd2 Ba3 16. Re1 Rc8 17. Qa4 Bb2 18. Rad1 Bc2 $17) 9... Bd6
+(9... Bxb4+ $5 10. Qxb4 Nd7 {el negro esta solido}) 10. Qa3 (10. O-O O-O 11.
+Bxc6 bxc6 $1 (11... Qxc6 12. Ne5 Qb6 13. Bxd6 Qxd6 $11 {el negro esta solido
+pero es dificil generar chances de ganar}) 12. Bxd6 (12. Nbd2 Rab8 13. Bxd6
+Qxd6 14. Qc3 Nd7 15. Rfc1 Rfc8 16. Nb3 (16. Ne5 Nxe5 17. dxe5 Qe7 18. Nb3 (18.
+b3 c5 19. e4 Bg6 {es comodo para el negro}) 18... Qb4 {[%csl Rb2]} (18... h5 $5
+19. Nc5 Qg5 $13) 19. Qxb4 (19. Qc5 Qxc5 20. Rxc5 h5 $11 {[%cal Gf5d3,Gd3c4]})
+19... Rxb4 {[%csl Rb2,Rc6] las debilidades se cancelan la una a la otra} 20.
+Nd4 (20. Rc5 Bd3 21. Rac1 g5 22. Rxc6 Rxc6 23. Rxc6 Bc4 $11) 20... Rxb2 21.
+Nxc6 Kf8 22. Nxa7 Rxc1+ 23. Rxc1 Rxa2 $11) 16... h6 17. Qa5 Rc7 $11 18. Rc3 (
+18. h3 $6 Rb5 $1 19. Qd2 $6 Be4 20. Ne1 c5 $15) 18... Rb5 19. Qa6 Rb6 20. Qe2
+Qb4 $1) 12... Qxd6 13. Nbd2 Nd7 $1 14. Rfc1 Rfc8 15. Qa4 (15. Rc3 Rcb8 16. Qa4
+Rxb2 17. Qxc6 (17. Rxc6 Nb6 $1 18. Rxd6 Nxa4 19. Rc6 Nb6 {transpone al resto
+de la linea}) 17... Qxc6 18. Rxc6 Nb6 {con dificil final para el blanco}) 15...
+c5 $1 16. dxc5 Nxc5 17. Qa3 Qf8 $1 18. Nd4 Bg6 19. Rc3 e5 20. N4f3 Nd3 $5 (
+20... e4 21. Nd4 Nd3 {con posicion balanceada}) 21. Rxd3 $146 (21. Rxc8 Rxc8 $5
+22. Qxa7 Qd8 $1 {[%csl Gd3][%cal Gd3f2,Gd3b2,Gd3e1,Gd3c1,Gg6c2,Gc8c2] pronto
+recuperara el peon con ventaja}) 21... Bxd3 22. Qxd3 e4 23. Nxe4 dxe4 24. Qxe4
+{si el blanco pone su caballo en d4 y estabiliza su posicion estara mejor,
+pero el negro mientras tanto debe crear nuevas amenazas} Rab8 25. b3 Qa3 $1 26.
+h4 Rc1+ 27. Rxc1 Qxc1+ 28. Kh2 Rc8 $11) 10... Ne4 $1 11. Nbd2 (11. Nc3 O-O 12.
+Bxc6 Qxc6 13. Rc1 Bxb4 14. Qxb4 Qa6 $1 15. Qb5 Nxc3 16. Qxa6 bxa6 17. Rxc3 Rab8
+18. b3 Rfc8 $15 {[%csl Ra6,Ra7][%cal Gc8c1] el control de la columna importa
+mas que los peones doblados}) 11... O-O 12. Bxd6 Nxd6 13. Be2 Rfc8 $1 14. O-O
+Qd8 $15 {[%csl Ga7,Gb4][%cal Ga7a5,Gc6b4]} *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[EventDate "2016.10.24"]
+[SourceVersionDate "2016.10.21"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "2016.10.26"]
+[Round "?"]
+[White "6.Ce5 "]
+[Black "Cbd7 7.Cc4 Dc7"]
+[Result "*"]
+[ECO "D17"]
+[Annotator "Zamir"]
+[PlyCount "26"]
+[SourceVersionDate "2016.10.21"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 (6... e6) 7.
+Nxc4 Qc7 {B)} 8. f3 ({A)} 8. Bg5 e5 9. e3 (9. Bxf6 gxf6 10. e3 O-O-O $1 11. Bd3
+(11. Be2 Rg8 12. O-O Nc5 $1 $17) 11... Bg6 $146 12. Qc2 (12. O-O Kb8 13. Re1
+Nc5 $17) 12... Kb8 13. O-O-O exd4 14. exd4 Nb6 $15) 9... Be7 10. Bh4 (10. Bd3
+Be6 (10... Bxd3 $5 11. Qxd3 Rd8) 11. O-O exd4 $1 $146 12. Bf4 (12. exd4 $2 Ng4
+$17) 12... Qd8 13. exd4 Nb6 $11) (10. dxe5 Nxe5 11. Bf4 Nfd7 $11) 10... exd4
+11. Bg3 Qc8 12. exd4 O-O 13. Bd3 Nb6 14. O-O Bxd3 15. Qxd3 Nxc4 16. Qxc4 Qd7
+17. Rad1 Rad8 $11) ({C)} 8. Qd2 g6 (8... Nb6 $5) 9. f3 (9. Qf4 Qxf4 10. Bxf4
+Bg7 11. e3 (11. f3 $6 Nd5 $1 12. Nxd5 cxd5 13. Ne5 Nxe5 14. Bxe5 f6 $1 $15) (
+11. O-O-O $6 Nd5 12. Bg3 O-O 13. e3 Rac8 14. Bd3 Be6 $15) 11... Nh5 $1 12. Bg5
+h6 13. Bh4 g5 14. Be2 Bg6 $11) 9... e5 10. e4 (10. dxe5 Nxe5 11. Qf4 Nfd7 12.
+e4 Be6 13. Nxe5 Nxe5 14. Qf6 Rg8 15. Qh4 $6 Bc5 $1 16. Be2 g5 $1 17. Bxg5 Qb6
+18. Rb1 Nc4 $17) (10. Qe3 Bb4 11. dxe5 Nd5 12. Nd6+ Qxd6 13. exd6+ Nxe3 14.
+Bxe3 Bxd6 $15) 10... exd4 11. Ne2 (11. Qxd4 Be6 $1 12. Be3 Bc5 13. Qd2 Bxe3 14.
+Qxe3 O-O $11) 11... a5 $5 $146 {[%csl Gb4]} (11... d3 $5 12. Qxd3 (12. Nf4 a5
+13. Nxd3 Be6 14. Qc3 Bxc4 15. Qxc4 Ne5 16. Qc2 Nfd7 17. Be3 Nxd3+ 18. Bxd3 Bb4+
+19. Kf2 O-O-O $11) 12... Be6 13. Bd2 Nc5 14. Qc3 Bxc4 15. Qxc4 O-O-O 16. Nc3
+Kb8 $11) 12. Qxd4 (12. Qf4 Bb4+ 13. Kf2 Qxf4 14. Bxf4 (14. Nxf4 Be6 $15) 14...
+d3 $1 15. Nc1 Be6 16. Bxd3 Nc5 (16... O-O $5 {para seguir jugando}) 17. Be5 Ke7
+18. Bd6+ Kd7 19. Be5 Ke7 $11) 12... Bb4+ 13. Bd2 Bxd2+ 14. Qxd2 (14. Nxd2 Be6
+15. Qc3 Qe5 $15) 14... Be6 15. Nd4 Bxc4 16. Bxc4 O-O 17. O-O Rfd8 $11) 8... e5
+9. e4 (9. dxe5 $6 Nxe5 10. e4 Rd8 $1 11. Qc2 Be6 12. Nxe5 Qxe5 13. Be3 (13. f4
+Qd4 14. f5 Bb4 $1) 13... Bc5 14. Qf2 (14. f4 Qh5 15. Be2 Bg4 $1 $146 16. Bxc5
+Qxc5 17. Rd1 O-O 18. e5 Rxd1+ 19. Qxd1 Bxe2 20. Qxe2 Nd5 21. Nxd5 cxd5 $17)
+14... Bxe3 15. Qxe3 O-O 16. Bd3 Nd5 $1 17. Nxd5 cxd5 18. O-O dxe4 19. Qxe4 Qc5+
+$146 20. Kh1 g6 $15) 9... exd4 10. Ne2 (10. Qxd4 Be6 $1 11. Be3 Bb4 $1 12. Be2
+O-O 13. Qd2 Ne5 14. Nxe5 Qxe5 15. O-O Rfd8 16. Qc1 (16. Qc2 Nd5 $5 $36) 16...
+Qa5 $15 {[%cal Gf6d7,Gd7c5]}) 10... d3 $5 11. Nd4 (11. Nc3 Be6 12. Bxd3 O-O-O
+$146 13. Qe2 Nh5 14. O-O Nf4 15. Bxf4 Qxf4 $17) (11. Qxd3 Be6 $146 12. Nd4 Bb4+
+13. Kf2 Nc5 14. Qc2 Rd8 15. Nxe6 (15. Be3 $2 Ncxe4+ 16. fxe4 Ng4+ 17. Ke2 Nxe3
+18. Kxe3 Bc5 $19) 15... Nxe6 16. g3 h5 $1 $36) 11... Bg6 12. Qxd3 Rd8 13. Qc3
+Nb6 $11 *
+
+[Event "?"]
+[Site "?"]
+[Date "2016.10.26"]
+[Round "?"]
+[White "7. ...Dc7"]
+[Black "8.g3"]
+[Result "*"]
+[ECO "D17"]
+[Annotator "Zamir"]
+[PlyCount "46"]
+[SourceVersionDate "2016.10.21"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Qc7 8.
+g3 e5 9. dxe5 (9. Bg2 Rd8 $1 10. O-O Be6 11. dxe5 (11. Ne3 $2 exd4 12. Qxd4 Nc5
+13. Qf4 Bd6 14. Qg5 $6 h6 $1 15. Qxg7 Ke7 {[%csl Rg7]}) (11. Nxe5 Nxe5 12. Bf4
+Bd6 13. dxe5 Bxe5 14. Bxe5 Qxe5 15. Qc2 O-O 16. Rfd1 a5 $11) 11... Nxe5 12. Nd2
+Bb4 $146 13. Qc2 O-O $11) 9... Nxe5 10. Bf4 (10. Nxe5 Qxe5 11. Qb3 (11. Bf4 Qe6
+12. Bg2 Rd8 13. Qc1 Bc5 (13... Bb4 $5) 14. O-O O-O 15. Bg5 Rfe8 $146 16. e4 Bg6
+$15) 11... O-O-O $146 12. Bg2 Bc5 13. O-O Qe6 $1 14. Qxe6+ Bxe6 $11) 10... Nfd7
+11. a5 (11. Qd4 f6 12. Rd1 Bc5 13. Nd6+ Kf8 $1 14. Qd2 Bxd6 $1 $146 15. Qxd6+
+Qxd6 16. Rxd6 Re8 $1 {[%cal Ge5d3]} 17. Bg2 Nd3+ 18. Kf1 Nxf4 19. gxf4 Ke7 20.
+Rd4 Nc5 $15) (11. Qc1 f6 (11... Be6 $5) 12. Bg2 Be6 13. Nxe5 fxe5 14. Be3 Nc5
+15. Bxc5 Bxc5 16. O-O O-O-O $5 $146 17. Ne4 Bb4 18. Ng5 Bg4 19. e3 Qe7 20. Qc4
+Bf5 $11) (11. Nxe5 Nxe5 12. Qd4 f6 13. a5 a6 14. Bg2 Rd8 15. Qa4 Bc5 16. O-O
+Rd4 17. b4 $1 Bd6 18. Rfd1 Rxb4 19. Nd5 Rxa4 20. Nxc7+ Bxc7 21. Rxa4 Bc2 22.
+Rad4 Bxd1 23. Rxd1 $11 {[%csl Gf4,Gg2]}) 11... f6 12. a6 $5 (12. Qc1 Be6 13.
+Nxe5 fxe5 14. Be3 Nc5 15. Bxc5 Bxc5 16. Bg2 (16. a6 $2 O-O 17. e3 Qf7 $36)
+16... a6 $5 17. O-O O-O-O 18. Ne4 Bb4 19. Nc5 Bf5 20. Ra4 Rd4 21. Nb3 (21. e3
+Bxc5 22. exd4 Bxd4 $44) 21... Bd2 22. Qa1 Rxa4 23. Qxa4 Rd8 24. Be4 (24. Rd1
+Bg5 25. Rxd8+ Qxd8 26. Qb4 Qd1+ 27. Bf1 Bh3 28. Qf8+ Bd8 29. Nd2 g5 $15 {
+[%csl Ga5,Ge2][%cal Gg5g4]}) 24... Bh3 25. Bg2 (25. Rd1 $6 Be3 $1 $15) 25...
+Bf5 $11) 12... b5 13. Ne3 Bg6 $146 14. Bg2 Rd8 15. O-O Qb6 16. Qc1 Bc5 17. Ne4
+O-O 18. Nxc5 Nxc5 19. Bxe5 fxe5 20. Qc3 Ne6 $1 21. Qxe5 Nd4 22. Rad1 Nxe2+ 23.
+Kh1 Nd4 $11 *
+
+[Event "?"]
+[Site "?"]
+[Date "2016.10.22"]
+[Round "?"]
+[White "7. ...Dc7 8.g3"]
+[Black "11. ... f6!?"]
+[Result "*"]
+[ECO "D17"]
+[Annotator "Zamir"]
+[PlyCount "46"]
+[SourceVersionDate "2016.10.21"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Qc7 8.
+g3 e5 9. dxe5 Nxe5 10. Bf4 Nfd7 11. Bg2 f6 $5 12. O-O ({B)} 12. a5 Nc5 13. O-O
+(13. Bxe5 fxe5 14. O-O Rd8 15. Qe1 Be7 $15) 13... Rd8 14. Qc1 $1 (14. Qe1 Be7
+15. Nxe5 fxe5 16. Be3 Nb3 17. Bxa7 Nxa1 18. Bb6 Qd7 19. Qxa1 Ra8 20. Qc1 Qe6
+21. Ne4 O-O $11) 14... Nb3 15. Bxe5 fxe5 16. Qg5 g6 $146 17. Rad1 Be7 18. Qe3
+Bc5 19. Qxe5+ (19. Rxd8+ Kxd8 20. Qxe5 Qxe5 21. Nxe5 Kc7 $44) 19... Qxe5 20.
+Nxe5 Bd4 21. e4 Bc8 22. Nf3 Bg7 23. a6 b6 $44) ({A)} 12. Nxe5 fxe5 13. Be3 Nc5
+$1 14. O-O Rd8 15. Qe1 Nb3 16. Rd1 Nd4 17. Ne4 (17. f4 $6 Nc2 18. Qf2 Nxe3 $146
+(18... Rxd1 19. Rxd1 Nxe3 20. Qxe3 Qb6 $11) 19. Qxe3 Qb6 20. Qxb6 axb6 21.
+Rxd8+ Kxd8 22. fxe5 Bc5+ 23. Kh1 Be6 24. Ne4 Ke7 $15) 17... a5 $1 18. f4 Bb4
+19. Qf2 O-O 20. Bxd4 exd4 21. Rxd4 Rxd4 22. Qxd4 Rd8 23. Qc4+ Qf7 24. Qxf7+
+Kxf7 $44) 12... g5 {A)} 13. Nxe5 ({B)} 13. Bxe5 Nxe5 14. Nxe5 (14. Ne3 Be6)
+14... Qxe5 15. a5 a6 16. Qb3 Rb8 17. Ra4 Be6 18. Qc2 f5 $146 19. Rd1 (19. e3
+Bg7 $15) 19... Be7 20. e3 O-O 21. Bf1 Rbd8 $11) (13. Ne3 {orden de movimiento
+inpreciso que le permite al negro tener una opcion extra} Be6 14. Bxe5 Qxe5 $1
+(14... Nxe5 {transpone a la otra linea}) 15. a5 a6 $1 16. Qc2 (16. Ne4 $6 O-O-O
+17. Qc1 Be7 18. Nc4 Qc7 $1 19. Rd1 Kb8 $15) 16... Bc5 17. Ra4 f5 18. Nc4 Qf6
+19. Rd1 O-O 20. e3 Rad8 $11) 13... gxf4 $1 14. Nxd7 Qxd7 15. Qc1 (15. Qxd7+
+Kxd7 16. Rfd1+ (16. gxf4 Bb4 $44) 16... Bd6 17. Rd4 Rad8 18. gxf4 Rhg8 19. Kf1
+Kc7 20. Rad1 a5 $44 {pareja de alfiles otorga suficiente compesacion}) (15. a5
+fxg3 $146 16. fxg3 $1 a6 17. Be4 $1 Bh3 18. Qxd7+ Bxd7 19. Rxf6 O-O-O $44)
+15... Bd6 $146 16. a5 (16. gxf4 {es riesgoso} O-O-O 17. Kh1 Rhg8 $44) 16... a6
+17. Rd1 (17. Ra4 fxg3 18. fxg3 (18. hxg3) 18... O-O-O 19. Nd5 (19. Qe3 Kb8 20.
+Bxc6 bxc6 21. Qb6+ Ka8 22. Qxa6+ Kb8 23. Rxf5 Qxf5 24. Qb6+ Kc8 25. Qxc6+ Kb8
+$11) 19... Qe6 20. Nb4 Bc7 21. Nxc6 $1 bxc6 22. Rc4 Rd6 $1 23. Bxc6 Kd8 $1 24.
+Bb7 Rd7 25. Rxc7 $1 Rxc7 26. Rd1+ Rd7 27. Qc8+ Ke7 28. Rxd7+ Qxd7 29. Qxh8 Qd4+
+30. Kg2 Be4+ $11) (17. e3 fxg3 18. fxg3 (18. hxg3 O-O-O $11) 18... O-O-O 19.
+Na4 $1 Qe6 20. Bd5 Qe5 21. Bxc6 Kb8 $5 (21... bxc6 22. Qxc6+ Kb8 $11 {perpetuo}
+) 22. Qc3 Qxc3 23. Nxc3 Bd3 24. Rfd1 Bc5 $11) 17... Qc7 (17... O-O-O $2 18. Nb5
+$1 axb5 19. a6 $18 {con ataque desicivo}) 18. Ne4 Bxe4 19. Bxe4 O-O-O 20. Ra4
+Be5 (20... Kb8 $5) 21. Rxd8+ Rxd8 22. e3 fxe3 23. Qxe3 Qd6 $11 {[%csl Gd4]} *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[PlyCount "0"]
+[SourceVersionDate "2016.10.21"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.09.23"]
+[Round "?"]
+[White "5.e3 ..."]
+[Black "?"]
+[Result "*"]
+[ECO "D15"]
+[PlyCount "9"]
+[SourceVersionDate "2016.10.21"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. e3 *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.09.23"]
+[Round "?"]
+[White "5.e3 ..."]
+[Black "7. Na2"]
+[Result "*"]
+[ECO "D15"]
+[PlyCount "46"]
+[SourceVersionDate "2016.10.21"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. e3 b5 6. a4 b4 7. Na2 e6 8. Bxc4
+Nbd7 9. O-O Bb7 10. Qe2 (10. b3 Bd6 11. Bb2 O-O 12. Nc1 c5 $146 13. Nd3 cxd4
+14. Nxd4 (14. Bxd4 Qb8 $1) 14... Nb6 15. Bb5 Rc8 16. Rc1 Rxc1 17. Qxc1 Qb8 18.
+Nc6 Bxc6 19. Qxc6 Rc8 20. Qf3 Nbd5 {black has no problems}) (10. Bd2 a5 11. Nc1
+Be7 12. Nb3 (12. Nd3 {is worse} O-O 13. Rc1 Rc8 14. Qe2 Nb6 {[%csl Rc4]} 15. b3
+$2 Nxc4 16. Rxc4 (16. bxc4 c5) 16... Ba6 17. Rc2 Qd5 {and white is lost}) 12...
+O-O 13. Qe2 c5 14. Rfd1 Qb6 {it transposes to line b22}) 10... Be7 11. Rd1 (11.
+b3 O-O 12. Bb2 c5 13. Nc1 Qa5 $5 {ambitious move, black avoids the trade of
+the light-squared bishops} (13... Nb6 14. Ba6 Bxa6 15. Qxa6 Ne4 16. Nd3 Qc8 {
+it's fine for black too}) 14. Nd3 cxd4 15. Nxd4 a6 {black has good chances in
+this complex position}) (11. e4 O-O 12. Rd1 (12. e5 Nd5 13. Bd2 a5 14. Nc1 N5b6
+$1 15. Bd3 c5 {and black is better}) 12... c5 13. dxc5 Bxc5 14. Bb5 (14. Bg5
+Qc7 15. Bb5 Ne5 $1 16. Bxf6 gxf6 {[%csl Ra2] black is better due to the Na2}) (
+14. Ne5 Qc7 (14... Nxe5 $1 {taking over the initiative} 15. Rxd8 Raxd8 16. Bg5
+Rd4 $1 17. Ba6 Bxa6 18. Qxa6 Neg4 19. Bxf6 Nxf6 {[%csl Ra2] and the poorly
+placed Knight is starting to tell})) 14... Qc7 15. Be3 a5 $3 $146 16. Rac1 (16.
+Bxd7 Nxd7 17. Rxd7 Qxd7 18. Bxc5 Rfc8 19. Qe3 Qxa4 {and black has better
+chances}) 16... Bxe4 17. Bxd7 Nxd7 18. Bxc5 Bxf3 19. gxf3 $1 (19. Qxf3 Nxc5 20.
+Qe3 Rad8 $1 {and black is winning}) 19... Nxc5 20. Qe3 Rac8 21. Rc4 Qb6 22.
+Rdc1 b3 23. Nb4 $1 Rcd8 24. Qxc5 Qxc5 25. Rxc5 axb4 26. R5c4 {the rook ending
+is drawn}) 11... O-O 12. Bd2 a5 13. Nc1 c5 14. Nb3 Qb6 15. Be1 (15. Bb5 Bd5 $1
+16. dxc5 Qa7 $1 17. Nbd4 Nxc5 18. Ne5 Qc7 19. f4 Nfe4 20. Rac1 Qb7 $15) 15...
+Rfc8 16. Rac1 (16. Bb5 Bd5 17. Nfd2 cxd4 18. Nxd4 e5 $146 19. Nf5 Bf8 20. e4
+Bc6 21. Bxc6 Qxc6 {it is white who must think about equality}) 16... cxd4 $146
+(16... h6) 17. Nbxd4 (17. Nfxd4 e5 18. Nb5 Nc5 19. Nxc5 Rxc5 20. b3 Rac8 {
+Black has the better game}) 17... Bf8 $1 18. Nd2 Nc5 19. Bb5 e5 20. Nc4 Qc7 21.
+Nf3 Bxf3 $5 22. gxf3 (22. Qxf3 Nd3 $1 23. Rb1 (23. Rc2 e4 24. Qe2 b3 25. Rc3
+Bb4 26. Rcxd3 exd3 27. Qxd3 Bxe1 28. Rxe1 Rab8 {gives black the advantage})
+23... e4 24. Qe2 Rd8 $15) 22... Nb3 23. Rc2 g6 {complex position and pretty
+balanced} *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.09.23"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "A00"]
+[PlyCount "0"]
+[SourceVersionDate "2016.10.21"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.09.23"]
+[Round "?"]
+[White "5.a4 Bf5"]
+[Black "?"]
+[Result "*"]
+[ECO "D17"]
+[PlyCount "10"]
+[SourceVersionDate "2016.10.21"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2016.10.21"]
+[Round "?"]
+[White "9.De2 15.Cg5 Ag6"]
+[Black "16.f4"]
+[Result "*"]
+[ECO "D19"]
+[Annotator "Zamir"]
+[PlyCount "68"]
+[SourceVersionDate "2016.10.21"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+Nbd7 9. Qe2 Bg6 10. e4 O-O 11. Bd3 Bh5 12. e5 Nd5 13. Nxd5 cxd5 14. Qe3 Re8 15.
+Ng5 Bg6 16. f4 Bxd3 (16... Rc8 $5 17. g4 f6 $1 18. Bxg6 hxg6 19. Nf3 Qc7 20.
+Qd3 Nf8 $13 21. f5 $2 exf5 22. gxf5 Qc4 $1 $17) 17. Qxd3 f5 {d) Main line} 18.
+Be3 (18. Bd2 Bxd2 19. Qxd2 Nb8 20. Rfc1 Nc6 21. a5 Rc8 22. b4 a6 $11) (18. exf6
+Nxf6 19. Be3 Qd7 $11) ({b)} 18. g4 h6 19. gxf5 (19. Nxe6 $2 Rxe6 20. gxf5 Rc6
+$1 21. Be3 Qh4 22. Rf2 Qh3 23. Rg2 Rf8 24. f6 Nxf6 25. exf6 Rcxf6 $17) 19...
+hxg5 20. f6 g4 21. f5 (21. Qg6 $2 Nxf6 22. f5 Qb6 $1) 21... Nxf6 22. Bg5 Be7
+23. Rae1 exf5 24. exf6 Bxf6 25. Rxe8+ Qxe8 26. Bxf6 gxf6 27. Qxf5 Qe3+ 28. Kg2
+Qxd4 $11) ({c)} 18. Kh1 Nf8 19. Rg1 Be7 20. g4 Bxg5 21. gxf5 Bh4 22. fxe6 Nxe6
+23. f5 Bf2 24. Rg2 Bxd4 25. fxe6 Bxe5 26. Bg5 Qd6 27. e7 Bf6 $11) ({a)} 18. Qb5
+a5 $1 19. Be3 (19. Qxb7 $2 h6 20. Nf3 Nb6 21. Bd2 Rb8 22. Qc6 Nc4 23. Bxb4 Rxb4
+24. b3 Rb6 25. Qc5 Rxb3 26. Rfb1 Qb8 27. Rxb3 Qxb3 $17) 19... Ra6 20. Rac1 Rb6
+21. Qd3 Be7 22. b3 Nb8 23. Nf3 Nc6 $11) 18... Nf8 19. Kh1 Be7 20. Nf3 Rc8 21.
+Bd2 Qd7 22. Rg1 Qc6 23. Bc3 Qa6 24. Qe3 Rc4 25. a5 Rec8 26. Nd2 R4c7 27. g4
+fxg4 28. Rxg4 Ng6 $1 29. Rag1 Rf8 30. Qg3 Qc6 $1 31. Nf1 Qb5 $1 32. Rxg6 hxg6
+33. Qxg6 Bh4 34. Qxe6+ Rff7 $36 *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.09.21"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "A00"]
+[PlyCount "0"]
+[SourceVersionDate "2016.10.21"]
+
+ *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.09.22"]
+[Round "?"]
+[White "3.cd5 cd5"]
+[Black "?"]
+[Result "*"]
+[ECO "D10"]
+[PlyCount "7"]
+[SourceVersionDate "2016.10.21"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 (4. Bf4) *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.09.22"]
+[Round "?"]
+[White "3.cd5 cd5"]
+[Black "4. "]
+[Result "*"]
+[ECO "D10"]
+[PlyCount "26"]
+[SourceVersionDate "2016.10.21"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Bf4 (4. Nc3 Nf6 5. Nf3 (5. Bg5 Ne4 6. Nxe4 (
+6. Bf4 e5 $5 $146 7. Bxe5 (7. dxe5 $6 Bb4 8. Qc2 (8. Rc1 d4 9. a3 Ba5 $17) 8...
+Bf5 9. a3 Qa5 $17) 7... Qa5 8. Qb3 (8. Rc1 {it's worse for white} Nc6 9. e3
+Nxc3 10. bxc3 Nxe5 11. dxe5 Ba3 12. Rc2 Bd7 $1 {[%csl Ra4][%cal Gd7a4] with
+initiative}) 8... Bb4 9. Rc1 Nc6 10. Nf3 O-O 11. e3 (11. Bf4 {white is unable
+to keep the bishop alive} Bg4 12. e3 Rfc8 13. Bd3 Nxc3 14. bxc3 Bxc3+ $1) 11...
+Nxe5 12. Nxe5 Be6 13. Nd3 Bxc3+ 14. bxc3 Rfc8 15. Nb4 Qd8 $1 {followed by
+doubling rooks in the c-file, black has excellent compesantion for the pawn})
+6... dxe4 7. a3 (7. Qd2 Qd5 8. a3 Nc6 9. Rd1 Na5 $1 {with strong initiative
+for black}) 7... h6 $146 8. Bh4 (8. Bf4 Nc6 9. d5 (9. e3 $2 e5 10. dxe5 Qa5+
+11. Qd2 Bb4 $19) 9... e5 10. Be3 Ne7 (10... Na5 $5 {would be even more
+challenging}) 11. Qa4+ Qd7 12. Qxe4 Qxd5 13. Qxd5 Nxd5 {white must fight for
+equality}) 8... Qb6 9. Qc2 (9. Qd2 e5 10. dxe5 Nc6 11. e3 Be6 {[%cal Gg7g5,
+Ga8d8,Gf8g7] with strong initiative}) 9... Nc6 10. e3 e5 11. Rd1 Qa5+ 12. Rd2
+Be6 {black has a pleasant position}) 5... Nc6 6. Bf4 (6. Ne5 e6 7. Nxc6 bxc6 8.
+g3 c5 9. Bg2 Be7 10. O-O O-O 11. dxc5 Bxc5 12. Na4 (12. e4 $2 Ba6 13. Re1 Qb6 {
+white is trouble for example} 14. Be3 d4 15. Na4 dxe3 16. Nxb6 exf2+ 17. Kh1
+fxe1=Q+ 18. Qxe1 axb6 $19) 12... Bd6 13. Be3 Qe7 14. Rc1 Rb8 $146 15. b3 Rd8
+16. Bc5 Ba6 17. Bxd6 Qxd6 18. Nc5 Bb5 {black is very comfortable}) 6... Bf5 7.
+Rc1 {this is the sideline examined here, others moves tranposes to the main
+line} e6 8. Qb3 (8. e3 {transposes}) 8... Bd6 $5 9. Qxb7 O-O 10. Qxc6 Bxf4 11.
+e3 Bd6 12. a3 Rb8 13. Nd1 (13. b4 $2 a5 $1 14. Ne2 axb4 $19) 13... Ne4 14. Qa4
+Bg4 15. Be2 f5 $44 {black has a lot of play for his sacrificed pawn}) 4... Nc6
+5. e3 Nf6 6. Bd3 (6. Nc3 Bf5 {transpose}) 6... Bg4 7. f3 (7. Nf3 {put black
+under no pressure at all}) (7. Ne2 e6 8. Nbc3 Bd6 $1 {it seems more
+challenging than Be7} (8... Be7) 9. f3 Bh5 10. g4 (10. Qb3 Rb8) 10... Bg6 11.
+h4 O-O $1 {white fails to create something concrete on the kingside} 12. h5
+Bxd3 13. Qxd3 Bxf4 (13... Rc8 14. g5 Ne8 15. g6 fxg6 16. hxg6 h6 $1 {and here
+too black is ok}) 14. exf4 (14. Nxf4 Ne8 {the simplest solution} 15. O-O-O Nd6
+16. Kb1 Rc8 {with double edged play}) 14... Rc8 15. h6 g6 16. Kf2 Ne8 $1 17.
+Rac1 Nd6 18. b3 Qa5 $146 {followed by Rc7 and Rfc8 when black has nothing to
+complain about.}) (7. Qb3 Na5 $1 8. Qa4+ (8. Qc2 Rc8 9. Nc3 e6 10. Nge2 Bh5 11.
+O-O Be7 {black has no problems}) 8... Bd7 9. Qc2 Nc6 {[%csl Rb4][%cal Gc6b4]
+white has to spend a move to defend the threat of Nb4} 10. a3 Qa5+ (10... Nh5
+$146 11. Bg3 Nxg3 12. hxg3 e5 {with good game for black it's insteresting too})
+11. Qd2 Qxd2+ 12. Nxd2 Nh5 13. Be5 f6 14. Bg3 e5 15. Ne2 Bd6 16. Rc1 Kf7 {
+and black is no worse by any means}) 7... Bh5 $1 {It's important to retire to
+this square as} (7... Bd7 $2 8. Nc3 Nh5 (8... e6 9. g4) 9. Bg5 $1 {offers
+white a promising game}) 8. Nc3 e6 9. Nge2 (9. Qb3 {it's important to answer
+this accurately} Qd7 $1 10. Nge2 Bg6 11. Bb5 Rc8 {black is fine}) 9... Be7 10.
+Kf2 Bg6 11. g4 Nd7 $146 {[%csl Rh4][%cal Ge7h4] taking control of h4} 12. Bg3
+Bxd3 13. Qxd3 h5 {avoiding white's attack, black is comfortable} *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.07.03"]
+[Round "?"]
+[White "3.cd5 cd5"]
+[Black "4. Nc3 Nf6 5.Bf4"]
+[Result "*"]
+[ECO "D14"]
+[PlyCount "44"]
+[SourceVersionDate "2016.10.21"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Nc3 Nf6 5. Bf4 Nc6 6. e3 Bf5 7. Nf3 e6 8. Bb5
+(8. Qb3 Bb4 9. Ne5 (9. Bb5 O-O 10. O-O Bxc3 11. Qxc3 Rc8 12. Qa3 Ne4 13. Rfc1
+g5 14. Bxc6 bxc6 15. Bg3 f6 16. Qxa7 h5 17. h4 g4 18. Nh2 Nxg3 19. fxg3 Qd6 20.
+Nf1 Ra8 21. Qc5 Qxc5 22. Rxc5 Rfb8) 9... Bxc3+ 10. bxc3 (10. Qxc3 Nxe5 11. Bxe5
+O-O 12. Qb4 Rc8 13. Be2 Rc2 14. Bd1 Rc4 15. Qa3 Qb6 16. O-O Rfc8) 10... Nxe5
+11. Bxe5 O-O 12. Be2 Rc8 13. O-O Ne4 14. Qxb7 f6 15. Bg3 Rf7 16. Qa6 Nxc3 17.
+Rfc1 Nxe2+ 18. Qxe2 Rb7 $11 19. Qa6 Qd7) 8... Nd7 9. O-O (9. Qb3 Be7 10. O-O g5
+11. Bg3 h5 12. h3 g4 13. hxg4 hxg4 14. Nd2 Kf8 15. Rfc1 Kg7 16. Ne2 Rc8 17.
+Bxc6 bxc6 18. Qb7 Rh7 19. Bf4 Bd3 20. Ng3 c5 21. e4 Nb6 22. Qxa7 c4) 9... Be7
+10. Rc1 (10. Qb3) 10... Rc8 11. Qb3 g5 12. Be5 (12. Bg3 h5 {dangerous for white
+}) 12... O-O 13. Bg3 h5 14. h3 g4 15. hxg4 hxg4 16. Nh2 Nf6 {complex} 17. Qd1
+Bd6 18. Bh4 Bxh2+ 19. Kxh2 Kg7 20. Rh1 Rh8 21. Kg1 Ne7 22. Ne2 Qb6 {black is
+fine} *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.09.23"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[ECO "A00"]
+[PlyCount "0"]
+[SourceVersionDate "2016.10.21"]
+
+ *
+
