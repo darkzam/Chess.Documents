@@ -133,8 +133,8 @@ Qxd3 Qd6 14. Rde1 $5 (14. c4 Rd8 15. cxd5 Qxd5 16. Qxd5 cxd5 17. Nd4 Bd7 $11 {
 [Site "?"]
 [Date "2023.04.25"]
 [Round "?"]
-[White "7. Be3 0-0"]
-[Black "8. Qd2"]
+[White "7.Be3 0-0"]
+[Black "8.Qd2 ... 11.c4"]
 [Result "*"]
 [ECO "C42"]
 [Annotator "metal"]
@@ -155,4 +155,174 @@ Qc1 Bc5 $15) (11. h4 Be6 12. Kb1 Qa5 13. a3 d5 $1 14. Ng5 c4 15. Be2 Rac8 $1 {
 [%csl Ge6][%cal Gc8c6,Gc6e6,Gc6a6]}) 11... b5 $1 12. cxb5 a6 $1 13. b6 Qxb6 14.
 c4 Be6 15. Ng5 Bd7 16. Qc2 h6 17. h4 Rab8 18. f3 d5 19. cxd5 Bd6 20. Ne4 Nxe4
 21. fxe4 Rfc8 $44 *
+
+[Event "?"]
+[Site "?"]
+[Date "2023.04.25"]
+[Round "?"]
+[White "7. Be3 0-0"]
+[Black "8.Qd2 ... 11.Bg5"]
+[Result "*"]
+[ECO "C42"]
+[Annotator "metal"]
+[PlyCount "71"]
+[EventDate "2023.??.??"]
+
+{[%evp 0,21,19,29,30,17,13,27,31,20,24,20,20,20,20,3,8,8,13,13,25,19,30,5]} 1.
+e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 O-O 8.
+Qd2 Nd7 9. O-O-O Nf6 (9... c6) 10. Bd3 (10. h3 c5 11. g4 (11. Bd3) (11. Bf4 $6
+Be6 $1 12. a3 d5 $15) 11... Be6 $146 12. a3 d5 13. Bg2 Ne4 14. Qe1 Qc7 $11) (
+10. h4 c5 11. Kb1 (11. h5 h6 {[%cal Gc8e6,Gd8a5]}) 11... Qa5 12. a3 (12. c4
+Qxd2 13. Rxd2 Bd7 14. Bd3 Bc6) 12... d5 13. Ne5 Be6 14. f3 Rfd8 15. g4 d4 $1
+16. cxd4 Qa4 $1 17. g5 cxd4 $1 18. Bxd4 Bc5 $1 19. c3 Bxd4 20. cxd4 Nd7 $1 21.
+Nxd7 Qxd7 $36 {[%cal Gd7d5]}) 10... c5 11. Bg5 Be6 12. Qf4 h6 $1 (12... d5) 13.
+Bxh6 $5 (13. Bxf6 Bxf6 14. Qe4 g6 15. Bc4 Re8 16. Bxe6 Rxe6 17. Qxb7 Rb8 $44)
+13... gxh6 14. Qxh6 Re8 15. Qg5+ Kf8 16. Qh6+ Kg8 17. Ng5 $5 Bf8 18. Bh7+ Kh8
+19. Qh4 Ng4 $1 20. Bf5+ Bh6 21. f4 Qf6 $1 22. Bxe6 Qxf4+ 23. Kb1 fxe6 24. Nh3
+Qf5 25. Rdf1 Qg6 26. Rf4 $1 Ne3 27. Rf6 Qxc2+ 28. Ka1 Nf5 29. Qh5 Re7 $1 30.
+Ng5 $1 (30. g4 $2 Rh7 $1 {[%cal Gh6c1]}) 30... Qxg2 31. Rxh6+ Nxh6 32. Qxh6+
+Kg8 33. Qg6+ Rg7 $1 34. Qxe6+ Kh8 35. Qh6+ Kg8 36. Qe6+ $11 *
+
+[Event "?"]
+[Site "?"]
+[Date "2023.04.25"]
+[Round "?"]
+[White "7. Be3 0-0"]
+[Black "8.Qd2 ... 11.Kb1 ... 15.b3"]
+[Result "*"]
+[ECO "C42"]
+[Annotator "metal"]
+[PlyCount "61"]
+[EventDate "2023.??.??"]
+
+{[%evp 0,61,19,29,30,23,24,3,28,27,24,41,34,34,37,13,16,-1,20,9,30,35,44,30,39,
+51,47,19,18,17,0,0,6,6,32,48,22,12,12,12,0,0,0,0,0,0,0,0,15,0,0,0,0,0,-8,0,0,0,
+0,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3
+Be7 7. Be3 O-O 8. Qd2 Nd7 9. O-O-O Nf6 (9... c6) 10. Bd3 c5 11. Kb1 b5 $1 12.
+Rhe1 (12. Ng5 $6 Rb8 13. f3 $6 (13. Ne4 Be6 $15) 13... d5 $1 14. h4 c4 15. Be2
+b4 $17) (12. Bxb5 $6 Be6 $1 {[%cal Ge6a2,Gd8a5]} 13. Rhe1 (13. Qe2 Rb8 14. c4
+Ne4 {[%cal Ge7f6,Ga7a6]}) 13... Rb8 14. c4 a6 15. Ba4 Bxc4 16. Bb3 Bb5 $17) (
+12. Bg5 Be6 13. Bxf6 $6 (13. Rhe1) 13... Bxf6 14. Be4 b4 $1 15. c4 (15. Bxa8 $2
+bxc3 16. Qe3 (16. bxc3 $2 Qa5 $19) 16... Bxa2+ 17. Kxa2 Qa5+ 18. Kb1 Rxa8 $19)
+15... Rb8 16. Qd3 h6 (16... g6) 17. Rhe1 Rb6 $15) 12... Rb8 13. Bg5 $5 (13. Bf4
+Re8 $1 14. Rxe7 $2 (14. Ng5 Rb6 $1 15. f3 h6 16. Nh3 c4 17. Bf1 d5 $15) 14...
+Rxe7 15. Bxd6 Qxd6 16. Bxh7+ Kxh7 17. Qxd6 Rd7) 13... Be6 (13... c4 $2 14. Nd4
+Bd7 15. Nf5 Bxf5 16. Bxf5 $16) 14. Qf4 Qa5 15. b3 (15. Rxe6 $1) 15... c4 $1 16.
+Bf5 cxb3 17. axb3 b4 $1 18. c4 Rb6 19. Bxe6 fxe6 20. Rxe6 Nh5 $1 21. Qc1 $5 Ra6
+22. Qb2 Bxg5 23. Rd5 Qb6 24. Rxg5 Qxf2 25. Qc1 Rxf3 $5 26. gxf3 Qd4 27. c3 Qd3+
+28. Kb2 bxc3+ 29. Qxc3 Ra2+ 30. Kxa2 Qxc3 31. Rxh5 $11 *
+
+[Event "?"]
+[Site "?"]
+[Date "2023.04.25"]
+[Round "?"]
+[White "7. Be3 0-0"]
+[Black "8.Qd2 ... 11.Kb1 ... 15.Re6"]
+[Result "*"]
+[ECO "C42"]
+[Annotator "metal"]
+[PlyCount "56"]
+[EventDate "2023.??.??"]
+
+{[%evp 0,61,19,29,30,23,24,3,28,27,24,41,34,34,37,13,16,-1,20,9,30,35,44,30,39,
+51,47,19,18,17,0,0,6,6,32,48,22,12,12,12,0,0,0,0,0,0,0,0,15,0,0,0,0,0,-8,0,0,0,
+0,0,0,0,0,0]} 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3
+Be7 7. Be3 O-O 8. Qd2 Nd7 9. O-O-O Nf6 (9... c6) 10. Bd3 c5 11. Kb1 b5 $1 12.
+Rhe1 (12. Ng5 $6 Rb8 13. f3 $6 (13. Ne4 Be6 $15) 13... d5 $1 14. h4 c4 15. Be2
+b4 $17) (12. Bxb5 $6 Be6 $1 {[%cal Ge6a2,Gd8a5]} 13. Rhe1 (13. Qe2 Rb8 14. c4
+Ne4 {[%cal Ge7f6,Ga7a6]}) 13... Rb8 14. c4 a6 15. Ba4 Bxc4 16. Bb3 Bb5 $17) (
+12. Bg5 Be6 13. Bxf6 $6 (13. Rhe1) 13... Bxf6 14. Be4 b4 $1 15. c4 (15. Bxa8 $2
+bxc3 16. Qe3 (16. bxc3 $2 Qa5 $19) 16... Bxa2+ 17. Kxa2 Qa5+ 18. Kb1 Rxa8 $19)
+15... Rb8 16. Qd3 h6 (16... g6) 17. Rhe1 Rb6 $15) 12... Rb8 13. Bg5 $5 (13. Bf4
+Re8 $1 14. Rxe7 $2 (14. Ng5 Rb6 $1 15. f3 h6 16. Nh3 c4 17. Bf1 d5 $15) 14...
+Rxe7 15. Bxd6 Qxd6 16. Bxh7+ Kxh7 17. Qxd6 Rd7) 13... Be6 (13... c4 $2 14. Nd4
+Bd7 15. Nf5 Bxf5 16. Bxf5 $16) 14. Qf4 Qa5 15. Rxe6 $1 fxe6 16. Qh4 g6 $1 17.
+Qh3 Rf7 18. Qxe6 Qd8 $1 19. c4 $1 (19. Re1 $6 Rb6 $1 20. Qh3 Bf8 21. Re6 d5 $17
+) 19... b4 $1 20. Re1 Rb7 $1 21. Qh3 Qd7 22. Qh4 Rb8 23. Bc1 Nh5 $1 24. Ng5
+Bxg5 25. Qxg5 Re8 26. Rxe8+ Qxe8 27. g4 Nf6 28. f4 Qe7 $11 *
+
+[Event "?"]
+[Site "?"]
+[Date "2023.04.25"]
+[Round "?"]
+[White "7. Be3 0-0"]
+[Black "8.Qd2 ... 11.Rhe1 ... 12.a3"]
+[Result "*"]
+[ECO "C42"]
+[Annotator "metal"]
+[PlyCount "44"]
+[EventDate "2023.??.??"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 O-O
+8. Qd2 Nd7 9. O-O-O Nf6 (9... c6) 10. Bd3 c5 11. Rhe1 Be6 12. a3 (12. c4 $6 b5
+$1 13. cxb5 a6 $1) 12... c4 $1 (12... d5) 13. Be2 Ne4 14. Qd4 d5 15. Bxc4 $1
+Bf6 $1 16. Ne5 $1 Qc7 17. Bxd5 (17. Bf4 Nxc3 $1 18. bxc3 dxc4 19. Nd7 Bxd4 20.
+Bxc7 Bxf2 21. Nxf8 Bg4 $1 $11) 17... Bxd5 18. Qxd5 Qxe5 19. f3 $1 Nxc3 20. Qxe5
+Bxe5 21. bxc3 Bxc3 22. Re2 Rfe8 $11 *
+
+[Event "?"]
+[Site "?"]
+[Date "2023.04.25"]
+[Round "?"]
+[White "7. Be3 0-0"]
+[Black "8.Qd2... 11.Rhe1... 12.Kb1..., 13.c4"]
+[Result "*"]
+[ECO "C42"]
+[Annotator "metal"]
+[PlyCount "42"]
+[EventDate "2023.??.??"]
+
+{[%evp 0,42,28,22,22,24,38,34,34,26,32,21,21,29,29,25,22,-7,27,24,27,27,31,31,
+38,7,43,42,42,34,34,34,36,11,13,17,17,25,25,0,0,0,0,-28,-28]} 1. e4 e5 2. Nf3
+Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 O-O 8. Qd2 Nd7 9.
+O-O-O Nf6 (9... c6) 10. Bd3 c5 11. Rhe1 Be6 12. Kb1 Qa5 13. c4 Qxd2 14. Bxd2 (
+14. Nxd2 Rfe8 15. f3 Rad8 16. Bf2 b6 17. Ne4 Kf8 18. a4 h6 19. b3 d5 $11) 14...
+h6 (14... Rfe8) 15. h3 $5 (15. Nh4 Rfe8 16. Ng6 Ng4 17. Nxe7+ Rxe7 18. Re2 Ne5
+19. Bf4 Nxd3 20. Rxd3 Rd7 21. Rxd6 Rxd6 22. Bxd6 Rd8 23. Rd2 Bxc4 24. Kc1 b6 (
+24... Rc8 $5) 25. Bf4 Rxd2 26. Kxd2 $11) (15. b3 Rad8 (15... Rfe8 $11) 16. Bf5
+Bxf5 17. Rxe7 Rfe8 $5 18. Rxb7 Re2 $132) 15... Rfe8 $1 16. g4 $5 (16. Nh4 $6
+Ng4 $1 17. hxg4 Bxh4 18. g3 Bf6 19. Be2 Bd4 $15) (16. Bc3 Rad8 $5 {[%cal Gd6d5]
+}) 16... Rad8 $1 17. g5 hxg5 18. Nxg5 Bd7 19. Rg1 Bc6 20. Bc3 (20. h4 d5 21.
+cxd5 Bxd5 22. Bc3 Bc6 {[%cal Gf6d5]}) 20... d5 21. cxd5 Nxd5 $11 *
+
+[Event "?"]
+[Site "?"]
+[Date "2023.04.25"]
+[Round "?"]
+[White "7. Be3 0-0"]
+[Black "8.Qd2... 11.Rhe1... 12.Kb1..., 13.a3"]
+[Result "*"]
+[ECO "C42"]
+[Annotator "metal"]
+[PlyCount "48"]
+[EventDate "2023.??.??"]
+
+{[%evp 0,33,19,29,30,31,24,8,36,31,25,29,40,40,32,13,9,-10,9,17,22,25,27,27,39,
+27,18,-2,18,20,-2,-2,0,-29,27,0]} 1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5.
+Nc3 Nxc3 6. dxc3 Be7 7. Be3 O-O 8. Qd2 Nd7 9. O-O-O Nf6 (9... c6) 10. Bd3 c5
+11. Rhe1 Be6 12. Kb1 Qa5 13. a3 c4 14. Be2 Ne4 15. Qc1 (15. Qd4 $2 d5 $17)
+15... d5 16. Bd4 b5 $1 17. Nd2 $1 (17. Ne5 $6 Qc7 $1 {[%cal Ga7a5,Gb5b4,Ge7g5]}
+) (17. h4 Rab8 $1 18. Ne5 (18. Ng5 $6 Nxc3+ $3 19. Bxc3 (19. bxc3 Bxa3 20. Qe3
+b4 $19) 19... b4 20. axb4 Bxb4 21. Bxb4 Rxb4 $19 22. Nxe6 Ra4 $1) 18... Qc7 19.
+Bf3 a5 20. Rxe4 $1 (20. Bxe4 $2 dxe4 21. Rxe4 b4 22. cxb4 axb4 23. axb4 Rxb4
+$17) 20... dxe4 21. Bxe4 b4 22. axb4 axb4 23. Nc6 bxc3 24. Bxc3 Rb5 25. Qe3 Bc5
+26. Qf3 Re8 27. Bxh7+ Kxh7 28. Qh5+ Kg8 29. Bxg7 Kxg7 30. Qg5+ Kf8 31. Qh6+ Kg8
+32. Qg5+ $11) 17... Bg5 18. Bf3 $1 f5 $5 19. Bxe4 fxe4 20. Nxc4 Qd8 $1 21. Be3
+$1 Bxe3 22. Nxe3 Rxf2 23. Rd2 Qf8 24. Qd1 Rd8 $11 *
+
+[Event "?"]
+[Site "?"]
+[Date "2023.04.25"]
+[Round "?"]
+[White "7. Be3 0-0"]
+[Black "8.Qd2... 11.Rhe1... 12.Bg5"]
+[Result "*"]
+[ECO "C42"]
+[Annotator "metal"]
+[PlyCount "24"]
+[EventDate "2023.??.??"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Be3 O-O
+8. Qd2 Nd7 9. O-O-O Nf6 (9... c6) 10. Bd3 c5 11. Rhe1 Be6 12. Bg5 d5 (12... h6
+13. Bxh6 c4 14. Bxg7) *
 
